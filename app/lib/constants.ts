@@ -1,7 +1,7 @@
 export const techCardsItems = [
   {
     name: "TypeScript",
-    description: "JavaScript but better",
+    description: "TypeScript but better",
     imageUrl: "/imgs/logos/typescript.svg",
     bgColor: "bg-[#3178C6]/20",
   },
